@@ -34,7 +34,7 @@ function LoginPage() {
     return (
         <div className="flex h-screen bg-gradient-to-br from-blue-400 to-teal-400 justify-center items-center">
             <div className="bg-white p-8 rounded shadow-md max-w-xs w-full flex flex-col items-center justify-start">
-                <h1 className='text-[40px] font-bold text-blue-300'>TECHI-KAS</h1>
+                <h1 className='text-[40px] font-bold text-blue-300'>POST-REPO</h1>
                 <p className='mt-10 font-thin text-left w-full text-[48px] text-blue-400'>Hello,</p>
                 <p className='-mt-8 mb-4 font-bold text-left w-full text-[48px] text-blue-400'>welcome!</p>
                 <div className='w-full flex flex-col items-start justify-start gap-3'>
